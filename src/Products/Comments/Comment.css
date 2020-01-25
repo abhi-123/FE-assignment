@@ -1,0 +1,11 @@
+.commentSection {
+    border: 1px solid #eee;
+    margin: 3% 0 0 9%;
+    padding: 10px;
+    background-color: #eee;
+    overflow: scroll;
+    max-height: 200px;
+    border-radius: 10px;
+    white-space: pre-wrap;
+
+}
